@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Rizqy Rionaldy (Nalonal)"
-resume_title:                   "Cyber Threat Hunting | Programming | Data Engineer"
+resume_title:                   "Cyber Threat Hunter | Programmer | Data Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "rionaldyrizqy@gmail.com"
